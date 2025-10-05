@@ -62,7 +62,7 @@ InvasionEspacial/
 ### Clonar el repositorio
 ```bash
 git clone https://github.com/OscarBR7/Juego-Nave-Espacial.git
-cd InvasionEspacial
+cd Juego-Nave-Espacial
 ```
 
 ### Crear y activar un entorno virtual
